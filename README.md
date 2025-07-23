@@ -5,3 +5,4 @@
 *  Preoprocess: Preprocessed each email sinppet before training.
 *  Trained Model: Used GridSearchCV() for hyper parameter tuning on SVM, LogisticRegression and MultinomialNB  . Saved the model and vectorizer(Tf-Idf Vectorizer).
 *  #### Classify or Label: Finally fetched about 50 emails from my GMAIL and predicted using the saved vectorizer and  model.
+    *  The output result is given on `output_result.txt`.
