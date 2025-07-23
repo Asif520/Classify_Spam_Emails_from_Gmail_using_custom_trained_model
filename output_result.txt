@@ -1,0 +1,201 @@
+Subject: Security alert
+Snippet: New sign-in to your account asifantraz@gmail.com We noticed a new sign-in to your Google Account. If this was you, you don&#39;t need to do anything. If not, we&#39;ll help you secure your account.
+Prediction: Ham
+============================================================
+Subject: Exploring Python Closures: Examples and Use Cases
+Snippet: Hi there, Good news, there are new notifications &amp; updates waiting for you in your Real Python account. Here&#39;s what you may have missed: New Course Exploring Python Closures: Examples and Use
+Prediction: Spam
+============================================================
+Subject: Apply now or regret later! GeeksforGeeks
+Snippet: Tired of endless job searches and no real leads? We&#39;ve rounded up 09 solid tech opportunities from top companies—just for you. Whether you&#39;re into ML, backend, testing, or analytics,
+Prediction: Spam
+============================================================
+Subject: Kogan 55" Mini-LED QLED 4K Smart AI Google TV ONLY $639 (That's 50% OFF Standard Retail Price)
+Snippet: Plus free shipping on TVs, projectors and more home entertainment! 22 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp;
+Prediction: Spam
+============================================================
+Subject: Md Asif, add Safim Md. Fahim
+Snippet: Student at Daffodil International University-DIU ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: [GitHub] Please verify your device
+Snippet: Hey Asif520! A sign in attempt requires further verification because we did not recognize your device. To complete the sign in, enter the verification code on the unrecognized device. Device: Microsoft
+Prediction: Ham
+============================================================
+Subject: Md Asif, add Yang Zhang - Clinical Assistant Professor in Data Science
+Snippet: Clinical Assistant Professor in Data Science ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Bohubrihi just posted something that might be of interest to you
+Snippet: Join this lightning panel to explore how Shikho AI and Monsha.AI are… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: Apply now or regret later! GeeksforGeeks
+Snippet: Tired of endless job searches and no real leads? We&#39;ve rounded up 14 solid tech opportunities from top companies—just for you. Whether you&#39;re into ML, backend, testing, or analytics,
+Prediction: Spam
+============================================================
+Subject: bdengineers bangladesh just posted new content
+Snippet: Urgent Vacancy Announcement: Company Name- Pioneer Simona Tanning BD… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: bdengineers bangladesh just posted new content
+Snippet: Urgent Vacancy Announcement Company Profile: A group of companies was… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: IT Professionals, you’re invited: Master skills to modernize your IT workload
+Snippet: 31 Jul | AWS Builders Online Series. Builders Online Series Register now Modernize smarter with AWS Discover practical strategies to streamline operations, reduce complexity, and build future-ready
+Prediction: Ham
+============================================================
+Subject: Md Asif, add Heejun Kim - Assistant Professor
+Snippet: University of North Texas Assistant Professor ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Maruf Shahrier just posted new content
+Snippet: Microsoft laid off 9000 employees yesterday 😥 😭 Compiled a list of 80+… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: Mohammad Anisul Islam just posted new content
+Snippet: ব্র‍্যান্ডিং, মার্কেটিং, সেলস, গ্রোথ নিয়ে কন্টেন্ট বানান, ইন্সাইটফুল লেখালেখি… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: 𝗬𝗼𝘂 𝗿𝗲𝗰𝗲𝗶𝘃𝗲𝗱 𝗮 𝗱𝗶𝗿𝗲𝗰𝘁 𝗱𝗲𝗽𝗼𝘀𝗶𝘁𝗲𝗱 𝗼𝗳 💲13963.99 {{𝗡𝗼_𝗗𝗲𝗽𝗼𝘀𝗶𝘁_𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱}}
+Snippet: Google© - This message was sent from a trusted sender. Ducky Luck Casino Hello asifantraz, This Best Mobile Casino Ever : +150 Free Spins!, And $13963.99 🤑 Welcome Bonus You Will Win the
+Prediction: Spam
+============================================================
+Subject: Items on your wishlist are now discounted!
+Snippet: gog.com Hi Asif520, Items on your wishlist are now discounted! Some items you&#39;ve added to your personal wishlist are currently discounted on GOG.com - you can find all the details below or directly
+Prediction: Ham
+============================================================
+Subject: FIRST-ival Sale on NOW ⚡️ Up to 75% OFF Amazing TVs, Appliances, Furniture, Manchester & More!
+Snippet: Kogan 85&quot; QLED 4K Smart AI Google TV ONLY $1699 (Save $1000) 7 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp;
+Prediction: Spam
+============================================================
+Subject: Md Asif, add Heejun Kim - Assistant Professor
+Snippet: University of North Texas Assistant Professor ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: HURRY, Our HUGE Extended EOFY Sale Ends Midnight 🚨
+Snippet: Last chance to claim up to 65% OFF an amazing range of TVs, appliances &amp; more! 6 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras
+Prediction: Spam
+============================================================
+Subject: Abdur Rakib just posted new content
+Snippet: Fahim Abdullah ভাইয়ের কাছে নেক্সট তুমি কি জানতে চাও কমেন্ট করে ফেলো, বলতে… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: 🏠 Get $100 Kogan.com credit when you buy a new Kogan Home Insurance policy online!
+Snippet: Now backed by Allianz with new prices &amp; new perks. 5 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Gadgets &amp; Toys Tools
+Prediction: Spam
+============================================================
+Subject: Mohammad Anisul Islam just posted new content
+Snippet: প্রোগ্রামিং হিরোর স্টুডেন্টরা দেশের ইকোনোমিতে আনুমানিক প্রতিবছর ১৩০ কোটি টাকা… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: 🛜 Australia's Cheapest nbn50 Internet Plan with Kogan Internet!
+Snippet: nbn50 only $59.90/month for the first 6 months - $78.90 thereafter. 3 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Gadgets
+Prediction: Spam
+============================================================
+Subject: Your 2 July reels of the day
+Snippet: Take a look at them and see other reels. Catch up on reels you&#39;ve missed leo.norqueen, sultanhaiderofficial and others shared new reels. Open Instagram 1 You have 1 notification that you may not
+Prediction: Ham
+============================================================
+Subject: EOFY Extended Deal 🚨 Google Nest Cam 2nd Gen ONLY $85 (Don't Pay $169 at Another Store)
+Snippet: Plus more epic home security and dash cam deals in our HUGE EOFY Sale 2 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp;
+Prediction: Spam
+============================================================
+Subject:  🔶Shape What’s Next with a University of Illinois' Online Program🔷
+Snippet: Dear Asif Khan Are you ready to advance or pivot your career? The University of Illinois Urbana-Champaign&#39;s online graduate programs are built for working professionals looking to do just that.
+Prediction: Spam
+============================================================
+Subject: EOFY is Extended 🔥 Up to 65% OFF an Epic Range of TVs, Appliances & More!
+Snippet: Kogan 55&quot; 4K Smart TV ONLY $419 (44% OFF) in our EOFY Sale 1 Jul 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp;
+Prediction: Spam
+============================================================
+Subject: Md Shahriar Alam just posted new content
+Snippet: Assalamulaikum! Therap has a new Opening for a Software Engineering Position… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: EOFY Free Shipping Sale ENDS Midnight 🚚 Up to 60% OFF TVs, Appliances, Furniture & Heaps More!
+Snippet: Kogan 55&quot; Mini-LED QLED 4K Smart AI Google TV ONLY $639 + free shipping (50% OFF standard retail price) 30 Jun 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp;
+Prediction: Spam
+============================================================
+Subject: Md Asif, add Safim Md. Fahim 💬
+Snippet: Student at Daffodil International University-DIU ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: EOFY Deal 🚚 Kogan 70" QLED 4K Smart TV ONLY $729 + Shipped FREE (54% OFF Standard Retail Price)
+Snippet: Plus up to 60% OFF an epic range of TVs, soundbars &amp; more! 29 Jun 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp;
+Prediction: Spam
+============================================================
+Subject: Abdullah Al Hasan just posted new content
+Snippet: droidcon Bangladesh 2025 এর একটা স্পেশাল কুপন আছে। কেউ যদি রেজিস্ট্রেশন করতে… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: EOFY Deal 🚚 Kogan 93L Bar Fridge ONLY $269 + Free Shipping (55% OFF Standard Retail Price)
+Snippet: Plus up to 60% OFF + free shipping on an amazing range of kitchen appliances in our EOFY sale! 28 Jun 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets
+Prediction: Spam
+============================================================
+Subject: EOFY Free Shipping Sale 🚚 Up to 60% OFF + Free Delivery on a Range of TVs, Appliances, Furniture & More!
+Snippet: Hurry, sale ends soon! 27 Jun 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Toys &amp; Hobbies Tools &amp; Auto More → EOFY Free
+Prediction: Spam
+============================================================
+Subject: 🏠 Get $100 Kogan.com credit when you buy a new Kogan Home Insurance policy online this EOFY!
+Snippet: Now backed by Allianz with new prices &amp; new perks. 26 Jun 2025 | Can&#39;t see images? View Online → Dick Smith Australia . TVs Computers &amp; Tablets Phones Cameras Audio Gadgets &amp; Toys Tools
+Prediction: Spam
+============================================================
+Subject: Shoeb Hassan just posted new content
+Snippet: Back to Work After a Meaningful Break 🕌✈️ After a refreshing and spiritually… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: Muhammad Anamul Hasan(Enam) just posted new content
+Snippet: Back to Work with Renewed Energy After a refreshing Eid break, it&#39;s great to… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: The Real Python Podcast – Episode #254: Scaling Python Web Applications With Kubernetes and Karpenter
+Snippet: Hi there, We&#39;ve missed seeing you around! There&#39;s a lot happening at Real Python, and we&#39;ve rounded up some updates and notifications just for you. Here&#39;s a sneak peek at what you&#39;
+Prediction: Ham
+============================================================
+Subject: Md Asif, add Md Asif Khan - Software Developer(AI)
+Snippet: Machine Learning(ML) l NLP l LLM l Data Analyst l | Database l SQL | Tableau |Python | Power BI ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Items on your wishlist are now discounted!
+Snippet: gog.com Hi Asif520, Items on your wishlist are now discounted! Some items you&#39;ve added to your personal wishlist are currently discounted on GOG.com - you can find all the details below or directly
+Prediction: Ham
+============================================================
+Subject: Bill Gates just posted new content
+Snippet: I know what it&#39;s like to lose a loved one to Alzheimer&#39;s, which is one reason… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: Nazafat Hossain Talukder just posted new content
+Snippet: Honored to meet Yeasin Ahmed, HR Manager, as we strengthen this enduring… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: You’re invited: AWS Builders Online Series
+Snippet: Must-knows on gen AI and more. Builders Online Series Register now Online Event 31 July, 2025 View session timings View agenda Mark your calendars! AWS Builders Online Series is coming—a free online
+Prediction: Ham
+============================================================
+Subject: Bdjobs.com just posted new content
+Snippet: মাসিক ৮০,০০০ টাকা বেতনে Head Chef নেবে Tu Do Restaurant &amp; Cafe. বিস্তারিত… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Spam
+============================================================
+Subject: Md Asif, add Deawan Rakin Ahamed Remal - Lecturer
+Snippet: Lecturer at Daffodil International University ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Lillian Pierson, P.E. just posted new content
+Snippet: It was such a joy to contribute to these courses ❤️ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Chowdhury MD.Sazzad reacted to this post: Eid Mubarak !!
+Snippet: Eid Mubarak !! ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Dev Skill just posted new content
+Snippet: ডেভ স্কীলের পক্ষ থেকে সবাইকে ঈদ-উল-আজহার শুভেচ্ছা। ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+Prediction: Ham
+============================================================
+Subject: Watch re:Inforce 2025 live from anywhere
+Snippet: Watch AWS&#39;s premier cloud security event through our free virtual experience. AWS re:Inforce 2025 Attendees interacting with AWS experts Stream the latest in AWS cloud security AWS re:Inforce 2025
+Prediction: Spam
+
+Process finished with exit code 0
