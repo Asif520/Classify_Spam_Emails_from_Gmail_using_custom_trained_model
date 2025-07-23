@@ -9,4 +9,4 @@
 
 
 *   Note: Using python library and trained custom model it is possible to label emails as `spam` or `inbox` or `other label`  in
-  *   ### GMAIL
+        ### GMAIL
